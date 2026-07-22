@@ -19,6 +19,10 @@ The Application uses Google AdMob to display banner and rewarded video ads. To d
 
 The Service Provider does not control what data these third-party ad services collect and refers you to their respective privacy policies for details, including any choices they offer (such as ad personalization settings in your device's OS or Google account).
 
+**Managing and Withdrawing Ad Consent**
+
+Where required by applicable law (such as the GDPR in the EEA/UK), the Application asks for your consent to ad personalization the first time you use it. You can review, change, or withdraw that consent at any time from within the Application via **Settings → Ad Consent → Manage**, which reopens Google's consent management form.
+
 **Third Party Access**
 
 Aside from the advertising services described above, the Application does not share any information with third parties. The Service Provider does not operate any backend servers that store or process your data.
@@ -43,7 +47,7 @@ The Service Provider values the confidentiality of your information and takes re
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use of the Application is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-07-22.
+This privacy policy is effective as of 2026-07-23.
 
 **Your Consent**
 
