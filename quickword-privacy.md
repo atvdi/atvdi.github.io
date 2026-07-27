@@ -8,7 +8,13 @@ The Application does not require account creation and does not ask you to provid
 
 Your gameplay preferences (display theme and sound on/off) are stored only on your device using local device storage. This data is never transmitted anywhere and cannot be accessed by the Service Provider.
 
-The Application does not access your contacts, camera, microphone, photos, or precise or approximate location.
+The Application does not access your contacts, camera, microphone, or photos.
+
+**Analytics**
+
+The Application uses PostHog to collect anonymous product analytics that help the Service Provider understand how the Application is used and improve it. This includes gameplay events (such as when a game starts or ends, words submitted or rejected, and joker/refresh tile usage) together with technical data PostHog collects automatically, such as device/OS information, app version, and an approximate location derived from your IP address (city/country level). This data is associated with a randomly generated identifier, not your name, email address, or other directly identifying information. See PostHog's own privacy policy for details:
+
+*   [PostHog Privacy Policy](https://posthog.com/privacy)
 
 **Advertising**
 
@@ -25,7 +31,7 @@ Where required by applicable law (such as the GDPR in the EEA/UK), the Applicati
 
 **Third Party Access**
 
-Aside from the advertising services described above, the Application does not share any information with third parties. The Service Provider does not operate any backend servers that store or process your data.
+Aside from the advertising and analytics services described above, the Application does not share any information with third parties. The Service Provider does not operate any backend servers that store or process your data.
 
 **Opt-Out Rights**
 
@@ -47,7 +53,7 @@ The Service Provider values the confidentiality of your information and takes re
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use of the Application is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-07-23.
+This privacy policy is effective as of 2026-07-27.
 
 **Your Consent**
 
